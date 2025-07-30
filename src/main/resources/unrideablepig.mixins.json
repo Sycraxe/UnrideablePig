@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.sycraxe.unrideablepig.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PigMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
